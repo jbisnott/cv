@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+}
+a {  
+    color: #b76e79;
+    text-decoration: none;   
+}
+a:hover {
+    color: #6eb7ac;
+}
+
+link {
+    color: #b76e79;
+    text-decoration: none;
+}
+hr {
+    border-color:#b76e79;
+    border-width: 2px;
+}
+img {
+    border:10px#b76e79 solid;
+}
+
+.topimgcontainer {
+    height: 525px;
+    background-color: #0ae0bc;
+}
+
+.intro {
+    background-color: #0ae0bc;
+    padding: 1em;
+    font-family: "Times New Roman", Times, serif;
+    color:#e00a2e;
+    font-size: 18px;
+    text-align: center;
+
+}
+.experience {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    background-color: #16b298;
+    padding: 1em;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: #b21630;
+    font-size: 18px;
+}
+.skills {
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #149883;
+    padding: 1em;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color:#7a1021;
+    font-size: 18px;
+}
+.languages {
+    gap: 50px;
+    padding: 1em;
+    background-color: #08bb9d;
+    display: flex;
+    font-size: 18px;
+    font-family: Cambria, Georgia, “Times New Roman”, serif;
+    justify-content: center;
+    align-items: center;
+    color: #bb0826;
+
+}
+.bottom {
+    font-family: "Times New Roman", Times, serif;
+    background-color: #12907c;
+    padding: 1em;
+    text-align: center;
+    font-size: 18px;
+    color: #901226;
+}
+.contactform {
+    justify-content: center;
+    display: flex;
+    background-color: #16b298;
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: #b21630;
+    font-size: 18px;
+}
+.THEBUTTON {
+    height: 300px;
+    width: 400px;
+    font-size: 100px;
+    background-color:#901226;
+    color:#12907c;
+    
+}
+.containerfortheallpowerfulsubmitbutton {
+    background-color: #12907c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10em;
+    
+    
+}
+#contactlink {
+    padding: 1em;
+    background-color: #901226;
+
+}
+#headshot {
+    position: absolute;
+    top: 0px;
+    left: 172px;
+}
+#ugalogo {
+    position: absolute;
+    top: 0px;
+    left: 674px;
+    background-color: white;
+}
+#code {
+    position: absolute;
+    top: 0px;
+    left: 1176px;
+}
